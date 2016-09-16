@@ -1,3 +1,8 @@
+This repo has been copied from https://github.com/bradwestfall/react-presentation/. Brad deleted the repo and since 
+I found this very useful repo for learning react, I am resurrecting it.
+
+All credit goes to Brad.
+
 # React Presentation for Phoenix JavaScript
 
 ## Prerequisites
